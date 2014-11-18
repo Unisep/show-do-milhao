@@ -23,4 +23,9 @@ Crie o banco: `rake db:setup`
 
 Chame o servidor WebRick: `rails server` 
 
+
+App publicado no Heroku!
+====
+Acesse: http://show-do-milhao.herokuapp.com/
+
 **Divirta-se :smile:**
